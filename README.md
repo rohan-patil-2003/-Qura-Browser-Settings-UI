@@ -1,16 +1,81 @@
-# React + Vite
+Qura Browser – Modern Settings UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully designed, fully responsive browser settings dashboard built using React + Tailwind CSS.
+This project recreates a modern browser-style settings interface with features like Dark Mode, Live Search, interactive toggles, categorized settings sections, and smooth UI transitions.
 
-Currently, two official plugins are available:
+✨ Features
+🎨 Modern UI & UX
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clean, gradient-based design
 
-## React Compiler
+Fully responsive layout (mobile → desktop)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Smooth transitions & animations
 
-## Expanding the ESLint configuration
+🌙 Dark Mode Support
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+One-click Dark/Light mode toggle
+
+Auto theme change across all components
+
+🔍 Smart Search
+
+Live search across all settings
+
+Highlights matching keywords
+
+Dynamically filters relevant sections
+
+⚙️ Interactive Settings
+
+Includes over 12 browser-style toggles:
+
+Privacy Mode
+
+Block Ads
+
+Do Not Track
+
+Block Popups
+
+Save Passwords
+
+HTTPS Only mode
+
+Notifications
+
+Hardware Acceleration
+
+Auto-clear Cookies
+
+Auto-download Files
+
+🧩 Component-Based Architecture
+
+Reusable components
+
+Clean state management using React hooks
+
+Highly scalable layout
+
+🛠️ Tech Stack
+
+React.js
+
+Tailwind CSS
+
+Lucide Icons
+
+Vite
+
+📂 Project Purpose
+
+This project showcases a modern browser settings UI that developers can use for:
+
+Frontend portfolio
+
+UI/UX practice
+
+Design inspiration
+
+React component architecture learning
